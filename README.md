@@ -1,6 +1,6 @@
 # Movie Ticket Booking System
 
-This is a simple Java program for a movie ticket booking system. It allows users to view available movies, display available seats for each movie, and book seats.
+This is a simple console-based Java application for a movie ticket booking system. It allows users to view available movies, display available seats for each movie, and book seats.
 
 ## Usage
 
